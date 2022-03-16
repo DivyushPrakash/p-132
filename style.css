@@ -1,0 +1,23 @@
+.heading {
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgba(255, 230, 0, 0.411);
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#status {
+    font-size: 18px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+canvas {
+    box-shadow: 28px 28px 150px rgb(255, 230, 0);
+    border-radius: 11px;
+}
